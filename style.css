@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 30pt;
+    justify-content: center;
+}
+
+input[type="button"] {
+    background-color: cadetblue;
+}
+
+nav {
+    background-color: cadetblue;
+    font-size: 15pt;
+}
+
+h1 {
+    background: #ff5722;
+    box-sizing: border-box;
+    flex: 100%;
+    text-align: center;
+    width: 100%;
+}
+
+#box {
+    min-width: 200px;
+    padding: 1px 2px;
+}
